@@ -12,7 +12,7 @@ h1	 {
 		background-image: url("image/irish_flag.gif");
 		height : 25px;
 }
-h2 {
+h2, h3 {
 		text-align: center;
 		font-size: 80px;
 		font-style: italic;
@@ -104,11 +104,12 @@ div 	{
 		width: 100%;
 		text-align: center;
 }
-fieldset{
-		width: 500px;
+fieldset	{
+		width: 525px;
 		border: 4px solid #e67e00;
 		padding: 10px;
-		margin: 10px;
+		margin: auto;
+		text-align: center;
 }
 label {
 		float: left;
