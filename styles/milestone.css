@@ -1,15 +1,15 @@
 body {
 		font-family: Georgia, serif;
-		background-color: lightgray;
-		color: #e67e00;
+		background-color: #adc199;
+		color: #DC7633;
 }
 h1	 {
+		background-image: url("image/flag.JPG");
 		color: #336600;
 		text-align: center;
 		font-style: italic;
 		font-size: 80px;
 		line-height: 5px;
-		background-image: url("image/irish_flag.gif");
 		height : 25px;
 }
 h2 {
@@ -25,6 +25,7 @@ h3	{
 		text-align: center;
 }	
 nav 	{
+		padding-top: .7em;
 		text-align: center;
 		background-color: #336600;
 		color: black;
