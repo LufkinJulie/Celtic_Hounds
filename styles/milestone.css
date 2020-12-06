@@ -4,7 +4,6 @@ body {
 		color: #DC7633;
 }
 h1	 {
-		background-image: url("image/flag.JPG");
 		color: #336600;
 		text-align: center;
 		font-style: italic;
@@ -14,7 +13,7 @@ h1	 {
 }
 h2 {
 		text-align: center;
-		font-size: 80px;
+		font-size: 60px;
 		font-style: italic;
 		line-height: 5px;
 }
@@ -56,9 +55,8 @@ footer p {
 p 	{
 		color: #336600;
 		font-size: 20px;
-		text-indent: 1em;
 		padding: 2em;
-		font-size: 20px;
+		text-align: left;
 }
 dt {
 		text-align : left; 
